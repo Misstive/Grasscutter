@@ -326,6 +326,10 @@
       "invalid_time": "Impossible d'analyser le timestamp.",
       "description": "Bannis un joueur"
     },
+    "unlockall": {
+      "success": "🇺🇸Unlocked all open states for %s.",
+      "description": "🇺🇸Unlocks all open states for a player."
+    },
     "unban": {
       "success": "Succès.",
       "failure": "Échec, joueur introuvable.",

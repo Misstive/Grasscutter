@@ -326,6 +326,10 @@
       "invalid_time": "无法解析时间戳。",
       "description": "封禁玩家"
     },
+    "unlockall": {
+      "success": "🇺🇸Unlocked all open states for %s.",
+      "description": "🇺🇸Unlocks all open states for a player."
+    },
     "unban": {
       "success": "成功取消玩家的封禁。",
       "failure": "取消玩家的封禁失败，因为玩家不存在。",

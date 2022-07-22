@@ -326,6 +326,10 @@
       "invalid_time": "Nieprawidłowy czas bana.",
       "description": "Zbanuj podanego gracza."
     },
+    "unlockall": {
+      "success": "🇺🇸Unlocked all open states for %s.",
+      "description": "🇺🇸Unlocks all open states for a player."
+    },
     "unban": {
       "success": "Pomyślnie odbanowano podanego gracza.",
       "failure": "Gracz o podanym ID nie istnieje.",

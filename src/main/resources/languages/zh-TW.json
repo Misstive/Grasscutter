@@ -326,6 +326,10 @@
       "invalid_time": "無效的時間戳。",
       "description": "停權指定玩家。"
     },
+    "unlockall": {
+      "success": "🇺🇸Unlocked all open states for %s.",
+      "description": "🇺🇸Unlocks all open states for a player."
+    },
     "unban": {
       "success": "撤銷停權成功。",
       "failure": "撤銷停權失敗，玩家帳號不存在。",

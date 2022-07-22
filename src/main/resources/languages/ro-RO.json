@@ -326,6 +326,10 @@
       "invalid_time": "Imposibil de analizat durata.",
       "description": "Interziceți un jucător"
     },
+    "unlockall": {
+      "success": "🇺🇸Unlocked all open states for %s.",
+      "description": "🇺🇸Unlocks all open states for a player."
+    },
     "unban": {
       "success": "Succes.",
       "failure": "Eșec, jucătorul nu a fost găsit.",
