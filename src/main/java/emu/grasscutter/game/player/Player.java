@@ -151,7 +151,7 @@ public class Player {
     @Getter private transient CookingManager cookingManager;
     @Getter private transient ActivityManager activityManager;
     @Getter private transient PlayerBuffManager buffManager;
-    
+
     // Manager data (Save-able to the database)
     private PlayerProfile playerProfile;
     private TeamManager teamManager;
@@ -892,7 +892,7 @@ public class Player {
     public boolean hasSentLoginPackets() {
         return hasSentLoginPackets;
     }
-    
+
     public void addAvatar(Avatar avatar, boolean addToCurrentTeam) {
         boolean result = getAvatars().addAvatar(avatar);
 

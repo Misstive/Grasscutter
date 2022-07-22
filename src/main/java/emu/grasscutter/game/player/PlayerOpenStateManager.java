@@ -33,7 +33,7 @@ public class PlayerOpenStateManager extends BasePlayerDataManager {
     public static final Set<OpenState> DEV_OPEN_STATES = Stream.of(OpenState.values())
         .filter(s -> s != OpenState.OPEN_STATE_NONE && s.getUnlockLevel() <= 1)
         .collect(Collectors.toSet());
-    
+
     public PlayerOpenStateManager(Player player) {
         super(player);
     }
